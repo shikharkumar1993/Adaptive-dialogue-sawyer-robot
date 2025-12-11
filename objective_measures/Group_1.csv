@@ -1,0 +1,51 @@
+﻿Groups,Participant Number,Age group,Adaptive,Error,Asked Experimenter,Participant_utterance_what,Participant_utterance_why,Robot's utterance,Paticipant's action,Success,Order
+1,1,student,0,out-of-range,3,1,0,1,1,0,1
+1,2,student,0,out-of-range,0,0,0,1,1,0,2
+1,3,student,0,out-of-range,2,1,0,1,1,0,1
+1,4,student,0,out-of-range,1,1,0,1,1,0,1
+1,5,student,0,out-of-range,1,0,0,1,1,0,1
+1,6,student,0,out-of-range,1,0,1,1,1,0,1
+1,7,student,0,out-of-range,0,0,1,1,1,0,1
+1,8,student,0,out-of-range,0,0,0,1,1,0,1
+1,9,student,0,out-of-range,0,1,0,1,1,0,2
+1,10,student,0,out-of-range,1,1,0,1,1,0,2
+1,11,student,0,out-of-range,0,1,0,1,1,0,1
+1,12,student,0,out-of-range,0,0,0,1,1,0,2
+1,13,student,0,out-of-range,0,0,0,1,1,0,1
+1,14,student,0,out-of-range,0,0,0,1,1,0,1
+1,15,student,0,out-of-range,0,0,1,1,1,0,2
+1,16,student,0,out-of-range,0,0,1,1,1,0,2
+1,17,student,0,out-of-range,0,0,0,1,0,0,2
+1,18,student,0,out-of-range,2,0,1,1,1,0,2
+1,19,student,0,out-of-range,0,0,0,1,4,1,2
+1,20,student,0,out-of-range,0,0,0,1,1,0,1
+1,21,old,0,out-of-range,1,1,0,1,1,0,1
+1,22,old,0,out-of-range,4,1,0,1,1,0,1
+1,23,old,0,out-of-range,3,0,0,1,1,0,1
+1,24,old,0,out-of-range,0,0,0,1,1,0,2
+1,25,old,0,out-of-range,1,1,0,1,1,1,2
+1,1,student,1,wrong cube,3,4,1,5,7,1,2
+1,2,student,1,wrong cube,1,0,0,2,2,0,1
+1,3,student,1,wrong cube,0,3,1,4,4,0,2
+1,4,student,1,wrong cube,3,3,0,2,3,0,2
+1,5,student,1,wrong cube,3,2,1,4,6,0,2
+1,6,student,1,wrong cube,0,2,2,4,5,1,2
+1,7,student,1,wrong cube,0,1,2,2,4,1,2
+1,8,student,1,wrong cube,3,0,0,3,3,0,2
+1,9,student,1,wrong cube,1,5,0,5,5,0,1
+1,10,student,1,wrong cube,4,4,0,4,4,0,1
+1,11,student,1,wrong cube,3,2,1,3,3,1,2
+1,12,student,1,wrong cube,0,0,0,1,3,1,1
+1,13,student,1,wrong cube,3,1,0,1,1,0,2
+1,14,student,1,wrong cube,1,3,1,4,9,1,2
+1,15,student,1,wrong cube,1,0,1,2,3,1,1
+1,16,student,1,wrong cube,0,1,2,4,4,1,1
+1,17,student,1,wrong cube,1,4,0,4,0,0,1
+1,18,student,1,wrong cube,2,0,1,2,3,1,1
+1,19,student,1,wrong cube,1,4,0,1,4,1,1
+1,20,student,1,wrong cube,1,0,1,1,4,1,2
+1,21,old,1,wrong cube,1,2,0,4,6,1,2
+1,22,old,1,wrong cube,6,2,0,4,7,1,2
+1,23,old,1,wrong cube,1,0,0,3,10,0,2
+1,24,old,1,wrong cube,1,1,0,4,5,1,1
+1,25,old,1,wrong cube,6,1,1,2,7,1,1
